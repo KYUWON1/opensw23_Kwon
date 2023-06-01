@@ -8,13 +8,13 @@
 * YOLOv8은 딥 러닝 및 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공합니다.<br/> 
 간소화된 디자인 덕분에 다양한 애플리케이션에 적합하고 에지 장치에서 클라우드 API에 이르기까지 다양한 하드웨어 플랫폼에 쉽게 적응할 수 있습니다.
 ## Results
-* 기존이미지 Detect 결과 1
+* 기존이미지 Detection 결과 1
 
 
 ![zed](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4ca9919a-d7d3-49d7-9554-d21a74045035)
 ![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
 ![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
-* 기존이미지 Detect 결과 2
+* 기존이미지 Detection 결과 2
 
 
 ![code1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/0e634bc9-c379-4c70-8dc2-be81c5abd684)<br/>
@@ -22,9 +22,12 @@
 ![bus a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e3a8f334-75ea-42bd-962b-d7324312859e)
 
 
+* 내가 찍은 이미지 Detection 결과 
+
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
 ![test1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/9d6749d2-9ac1-4692-ad9b-431a2403f833)
+
 * 카메라를 통한 실시간 분석 화면
 
 
