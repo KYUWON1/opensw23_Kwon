@@ -17,6 +17,10 @@
 
 
 ![test3](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/90981650-9aa1-4a6e-83d7-b295eae94144)
+* Youtube 링크 영상 분석 화면 
+
+
+https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/6742bcd3-bfff-4b18-beab-5f822c69f590
 
 ## Analysis/Visualization
 ## Installation
@@ -41,5 +45,6 @@
 -   'path/*.jpg'                    # glob
 -   'https://youtu.be/Zgi9g1ksQHc'  #YouTube
 -   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+8. 실행이 완료되면 detection이 끝난 파일들은 runs 폴더 안에 저장됩니다.
 ## Presentation
 
