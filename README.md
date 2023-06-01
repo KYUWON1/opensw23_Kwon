@@ -34,7 +34,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 5. cd yolov3
 6. pip install -r requirements.txt
 7. python detect.py --weights yolov5s.pt --source args
->   args : 
+>   args :<br/> 
 >   0                               #webcam<br/>
 >   img.jpg                         #image<br/>
 >   vid.mp4                         #video<br/>
