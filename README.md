@@ -6,9 +6,9 @@
 * 출처 yolov3 > https://github.com/ultralytics/yolov3
 * YOLOv3는 "You Only Look Once"의 약자로, 객체 감지(object detection) 작업에 사용되는 딥러닝 알고리즘입니다.<br/> https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.
 * YOLOv3는 객체 감지를 위해 이미지나 비디오를 입력으로 받아들이고, 이미지에서 다양한 객체를 식별하고 해당 객체들의 경계 상자(bounding box)와 클래스 레이블(class label)을 출력합니다.
+* YOLOv3는 높은 정확도와 실시간 처리 속도를 동시에 제공하며, 이는 실시간 비디오 감시, 자율 주행 차량, 보안 시스템 등 다양한 응용 분야에서 유용하게 사용됩니다.
 * 광범위한 물체 감지, 이미지 분할 이미지 분류작업에 사용됩니다.
-* YOLOv8은 딥 러닝 및 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공합니다.<br/> 
-간소화된 디자인 덕분에 다양한 애플리케이션에 적합하고 에지 장치에서 클라우드 API에 이르기까지 다양한 하드웨어 플랫폼에 쉽게 적응할 수 있습니다.
+* YOLOv3는 오픈 소스로 제공되며, 다양한 프레임워크를 통해 사용할 수 있습니다.<br/> 파이썬을 사용하여 YOLOv3를 구현하고 사용할 수 있는 라이브러리로는 Ultralytics의 "YOLOv3 🚀"이 있습니다.
 ## Results
 * 기존이미지 Detection 결과 1
 
