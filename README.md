@@ -2,7 +2,7 @@
 ## Team introduction
 * 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
-# 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
+### 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
 * https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.
 * 광범위한 물체 감지, 이미지 분할 이미지 분류작업에 사용됩니다.
 * YOLOv8은 딥 러닝 및 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공합니다. 
@@ -27,8 +27,17 @@
 2. git clone https://github.com/KYUWON1/opensw23_Kwon 
 3. cd yolov3
 4. pip install -r requirements.txt
-5. python detect.py --weights yolov5s.pt --source args 
-- 인자값으로 0을 주면 웹캠으로 detection이 시작됩니다.
-- 인자값으로 .jpg 파일이나, mp4 파일을 주면 detection한 결과가 runs폴더에 저장됩니다. 
+5. python detect.py --weights yolov5s.pt --source args
+   args : 
+   0                               #webcam
+   img.jpg                         #image
+   vid.mp4                         #video
+   screen                          #screenshot
+   path/                           #directory
+   list.txt                        #list of images
+   list.streams                    #list of streams
+   'path/*.jpg'                    # glob
+   'https://youtu.be/Zgi9g1ksQHc'  #YouTube
+   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ## Presentation
 
