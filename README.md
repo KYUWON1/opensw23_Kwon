@@ -11,8 +11,8 @@
 * 기존이미지 Detect 결과 1
 
 
-![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
 ![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
+![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
 * 기존이미지 Detect 결과 2
 
 
@@ -41,7 +41,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 2. pip install ultralytics
 3. git clone https://github.com/KYUWON1/opensw23_Kwon 
 4. cd opensw23_Kwon
-5. cd yolov3
+5. cd yolov3  #출처 https://github.com/ultralytics/yolov3
 6. pip install -r requirements.txt
 7. python detect.py --weights yolov5s.pt --source args<br/>
 >   args :<br/> 
