@@ -1,13 +1,11 @@
 # OPENSW Project
 ## Team introduction
-<<<<<<< HEAD
 * 202014185 심규원 개인프로젝트
 ## Topic introduction
 ## Results
 ## Analysis/Visualization
 ## Installation
 ## Presentation
-=======
 * 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
 * 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
@@ -32,4 +30,3 @@
 3. pip install ultralytics 명령어를 입력합니다.
 4. 
 ## Presentation
->>>>>>> 2f58cd120a2548994032121dca9fe93e3d8b85b0
