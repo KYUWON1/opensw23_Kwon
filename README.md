@@ -8,12 +8,12 @@
 * YOLOv8은 딥 러닝 및 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공합니다.<br/> 
 간소화된 디자인 덕분에 다양한 애플리케이션에 적합하고 에지 장치에서 클라우드 API에 이르기까지 다양한 하드웨어 플랫폼에 쉽게 적응할 수 있습니다.
 ## Results
-* 기존이미지 detect 결과 1
+* 기존이미지 Detect 결과 1
 
 
 ![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
 ![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
-* 기존이미지 detect 결과 2
+* 기존이미지 Detect 결과 2
 
 
 ![bus b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7b68e431-2585-4fa8-ac72-2f287b73fa4b)
@@ -43,7 +43,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 4. cd opensw23_Kwon
 5. cd yolov3
 6. pip install -r requirements.txt
-7. python detect.py --weights yolov5s.pt --source args
+7. python detect.py --weights yolov5s.pt --source args<br/>
 >   args :<br/> 
 >   0                               #webcam<br/>
 >   img.jpg                         #image<br/>
@@ -54,7 +54,8 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 >   list.streams                    #list of streams<br/>
 >   'path/*.jpg'                    # glob<br/>
 >   'https://youtu.be/Zgi9g1ksQHc'  #YouTube<br/>
->   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream<br/>
+>   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream<br/><br/>
+>   ex)  python detect.py --weights yolov5s.pt --source data/images/bus.jpg
 8. 실행이 완료되면 detection이 끝난 파일들은 runs 폴더 안에 저장됩니다.
 ## Presentation
 
