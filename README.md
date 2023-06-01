@@ -35,16 +35,16 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 6. pip install -r requirements.txt
 7. python detect.py --weights yolov5s.pt --source args
 >   args : 
->   0                               #webcam
->   img.jpg                         #image
->   vid.mp4                         #video
->   screen                          #screenshot
->   path/                           #directory
->   list.txt                        #list of images
->   list.streams                    #list of streams
->   'path/*.jpg'                    # glob
->   'https://youtu.be/Zgi9g1ksQHc'  #YouTube
->   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+>   0                               #webcam<br/>
+>   img.jpg                         #image<br/>
+>   vid.mp4                         #video<br/>
+>   screen                          #screenshot<br/>
+>   path/                           #directory<br/>
+>   list.txt                        #list of images<br/>
+>   list.streams                    #list of streams<br/>
+>   'path/*.jpg'                    # glob<br/>
+>   'https://youtu.be/Zgi9g1ksQHc'  #YouTube<br/>
+>   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream<br/>
 8. 실행이 완료되면 detection이 끝난 파일들은 runs 폴더 안에 저장됩니다.
 ## Presentation
 
