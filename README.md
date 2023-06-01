@@ -1,8 +1,7 @@
 # OPENSW Project
 ## Team introduction
-* 202014185 심규원 개인프로젝트
+* 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
-* 작성해야함 
 * 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
 * https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA state of the art) 모델입니다.
 * 광범위한 물체 감지, 이미지 분할 이미지 분류작업에 사용됩니다.
