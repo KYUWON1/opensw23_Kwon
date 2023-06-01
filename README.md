@@ -3,7 +3,9 @@
 * 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
 ### 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
-* https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.
+* 출처 yolov3 > https://github.com/ultralytics/yolov3
+* YOLOv3는 "You Only Look Once"의 약자로, 객체 감지(object detection) 작업에 사용되는 딥러닝 알고리즘입니다.<br/> https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.
+* YOLOv3는 객체 감지를 위해 이미지나 비디오를 입력으로 받아들이고, 이미지에서 다양한 객체를 식별하고 해당 객체들의 경계 상자(bounding box)와 클래스 레이블(class label)을 출력합니다.
 * 광범위한 물체 감지, 이미지 분할 이미지 분류작업에 사용됩니다.
 * YOLOv8은 딥 러닝 및 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공합니다.<br/> 
 간소화된 디자인 덕분에 다양한 애플리케이션에 적합하고 에지 장치에서 클라우드 API에 이르기까지 다양한 하드웨어 플랫폼에 쉽게 적응할 수 있습니다.
@@ -24,7 +26,8 @@
 
 ## Analysis/Visualization
 ## Installation
-* git bash를 실행합니다
+* Windows11 환경에서 실행
+* git bash 를 실행합니다.
 * 원하는 repository로 이동 합니다. 
 * git bash 창에 순서대로 명령어를 입력합니다.
 1. git init
