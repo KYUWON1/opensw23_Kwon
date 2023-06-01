@@ -1,12 +1,5 @@
 # OPENSW Project
 ## Team introduction
-* 202014185 심규원 개인프로젝트
-## Topic introduction
-## Results
-## Analysis/Visualization
-## Installation
-## Presentation
-=======
 * 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
 * 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
