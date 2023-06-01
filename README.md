@@ -20,7 +20,7 @@
 * Youtube 링크 영상 분석 화면 
 
 
-https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/6742bcd3-bfff-4b18-beab-5f822c69f590
+https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a7-201cef03e7c2
 
 ## Analysis/Visualization
 ## Installation
