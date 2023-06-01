@@ -12,13 +12,14 @@
 * 광범위한 물체 감지, 이미지 분할 이미지 분류작업에 사용됩니다.<br/><br/>
 * YOLOv3는 오픈 소스로 제공되며, 다양한 프레임워크를 통해 사용할 수 있습니다.<br/> 파이썬을 사용하여 YOLOv3를 구현하고 사용할 수 있는 라이브러리로는 Ultralytics의 "YOLOv3 🚀"이 있습니다.<br/><br/>
 ## Results
-* 기존이미지 Detection 결과 1
+
+* YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 1
 
 
 ![zed](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4ca9919a-d7d3-49d7-9554-d21a74045035)
 ![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
 ![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
-* 기존이미지 Detection 결과 2
+* YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 2
 
 
 ![code1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/0e634bc9-c379-4c70-8dc2-be81c5abd684)<br/>
