@@ -45,7 +45,9 @@
 >   'path/*.jpg'                    # glob<br/>
 >   'https://youtu.be/Zgi9g1ksQHc'  #YouTube<br/>
 >   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream<br/><br/>
->   ex)  python detect.py --weights yolov5s.pt --source data/images/bus.jpg
+>   예시에 Detection된 이미지를 얻기 위해선 아래 명령어를 입력하시면 됩니다.<br/>
+>   ex)  python detect.py --weights yolov5s.pt --source data/images/bus.jpg<br/>
+>   ex)  python detect.py --weights yolov5s.pt --source data/images/zidane.jpg<br/>
 8. 실행이 완료되면 detection이 끝난 파일들은 runs 폴더 안에 저장됩니다.
 ## Presentation
 
