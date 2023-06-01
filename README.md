@@ -19,5 +19,8 @@
 
 ## Analysis/Visualization
 ## Installation
-*소스코드를 어떻게 실행하고 ~ 하는지 
+1. git bash를 실행합니다
+2. 원하는 repository로 이동 합니다. 
+3. pip install ultralytics 명령어를 입력합니다.
+4. 
 ## Presentation
