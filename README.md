@@ -19,11 +19,15 @@
 
 ## Analysis/Visualization
 ## Installation
-1. git bash를 실행합니다
-2. 원하는 repository로 이동 합니다. 
-3. pip install ultralytics 명령어를 입력합니다.
-4. git clone https://github.com/KYUWON1/opensw23_Kwon 
-5. cd yolov3
-6. pip install -r requirements.txt
+* git bash를 실행합니다
+* 원하는 repository로 이동 합니다. 
+* git bash 창에 순서대로 명령어를 입력합니다.
+1. pip install ultralytics
+2. git clone https://github.com/KYUWON1/opensw23_Kwon 
+3. cd yolov3
+4. pip install -r requirements.txt
+5. python detect.py --weights yolov5s.pt --source args 
+>> 인자값으로 0을 주면 웹캠으로 detection이 시작됩니다.
+>>  인자값으로 .jpg 파일이나, mp4 파일을 주면 detection한 결과가 runs폴더에 저장됩니다. 
 ## Presentation
 
