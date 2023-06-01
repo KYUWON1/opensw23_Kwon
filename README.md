@@ -28,16 +28,16 @@
 3. cd yolov3
 4. pip install -r requirements.txt
 5. python detect.py --weights yolov5s.pt --source args
-   args : 
-   0                               #webcam
-   img.jpg                         #image
-   vid.mp4                         #video
-   screen                          #screenshot
-   path/                           #directory
-   list.txt                        #list of images
-   list.streams                    #list of streams
-   'path/*.jpg'                    # glob
-   'https://youtu.be/Zgi9g1ksQHc'  #YouTube
-   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+-   args : 
+-   0                               #webcam
+-   img.jpg                         #image
+-   vid.mp4                         #video
+-   screen                          #screenshot
+-   path/                           #directory
+-   list.txt                        #list of images
+-   list.streams                    #list of streams
+-   'path/*.jpg'                    # glob
+-   'https://youtu.be/Zgi9g1ksQHc'  #YouTube
+-   'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ## Presentation
 
