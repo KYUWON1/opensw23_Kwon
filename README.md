@@ -34,7 +34,7 @@
 5. cd yolov3  #출처 https://github.com/ultralytics/yolov3
 6. pip install -r requirements.txt
 7. python detect.py --weights yolov5s.pt --source args<br/>
->   args :<br/> 
+>   args : 아래 표를 참고하여 args값에 원하는 값을 넣으시면됩니다.<br/> 
 >   0                               #webcam<br/>
 >   img.jpg                         #image<br/>
 >   vid.mp4                         #video<br/>
