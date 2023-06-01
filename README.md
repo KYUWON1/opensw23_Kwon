@@ -1,4 +1,4 @@
-<font color='blue'># OPENSW Project</font>
+# OPENSW Project
 ## Team introduction
 * 202014185 심규원 개인프로젝트 조번호 3 
 ## Topic introduction
