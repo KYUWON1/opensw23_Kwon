@@ -15,7 +15,7 @@
 * 카메라를 통한 실시간 분석 화면
 
 
-![test3](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7723570f-2150-47a8-aecc-9f81f49741a2)
+![test3](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/90981650-9aa1-4a6e-83d7-b295eae94144)
 
 ## Analysis/Visualization
 ## Installation
