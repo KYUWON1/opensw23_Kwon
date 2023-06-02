@@ -14,26 +14,26 @@
 * YOLOv3는 오픈 소스로 제공되며, 다양한 프레임워크를 통해 사용할 수 있습니다.<br/> 파이썬을 사용하여 YOLOv3를 구현하고 사용할 수 있는 라이브러리로는 Ultralytics의 "YOLOv3 🚀"이 있습니다.<br/><br/>
 ## Results
 
-* YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 1
+### YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 1
 
 
 ![zed](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4ca9919a-d7d3-49d7-9554-d21a74045035)
 ![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
 ![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
-* YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 2
+### YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 2
 
 
 ![code1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/0e634bc9-c379-4c70-8dc2-be81c5abd684)<br/>
 ![bus b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7b68e431-2585-4fa8-ac72-2f287b73fa4b)
 ![bus a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e3a8f334-75ea-42bd-962b-d7324312859e)
 
-* 내가 찍은 이미지 Detection 결과 
+### 내가 찍은 이미지 Detection 결과 
 
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
 ![test1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/9d6749d2-9ac1-4692-ad9b-431a2403f833)
 
-* 카메라를 통한 실시간 분석 화면
+### 웹캠를 통한 실시간 분석 화면
 
 
 https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4adcb3f31
