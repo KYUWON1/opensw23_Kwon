@@ -27,6 +27,21 @@
 ![bus b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7b68e431-2585-4fa8-ac72-2f287b73fa4b)
 ![bus a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e3a8f334-75ea-42bd-962b-d7324312859e)
 
+* 내가 찍은 이미지 Detection 결과 
+
+
+![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
+![test1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/9d6749d2-9ac1-4692-ad9b-431a2403f833)
+
+* 카메라를 통한 실시간 분석 화면
+
+
+https://github.com/KYUWON1/gitstudy06/assets/127181209/b25ca44e-74a1-43bb-85b8-d9a62b231675
+* Youtube 링크 영상 분석 화면 
+
+
+https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a7-201cef03e7c2
+
 
 ## Analysis/Visualization
 ## Installation
