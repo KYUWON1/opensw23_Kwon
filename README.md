@@ -27,7 +27,7 @@
 ![bus b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7b68e431-2585-4fa8-ac72-2f287b73fa4b)
 ![bus a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e3a8f334-75ea-42bd-962b-d7324312859e)
 
-### 내가 찍은 이미지 Detection 결과 
+### 내가 찍은 이미지 Detection 결과
 
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
@@ -44,6 +44,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a
 
 
 ## Analysis/Visualization
+### Yolov3를 통한 Object detection을 직접 실행해보았는데, 일상생활에서 흔히 볼 수 있는
 ## Installation
 * Windows11 환경에서 실행
 * git bash 를 실행합니다.
