@@ -36,7 +36,7 @@
 * 카메라를 통한 실시간 분석 화면
 
 
-https://github.com/KYUWON1/gitstudy06/assets/127181209/b25ca44e-74a1-43bb-85b8-d9a62b231675
+https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4adcb3f31
 * Youtube 링크 영상 분석 화면 
 
 
