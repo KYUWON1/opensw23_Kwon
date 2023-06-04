@@ -43,14 +43,17 @@
 
 
 https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4adcb3f31
-* Youtube 링크 영상 분석 화면 
+### Youtube 링크 영상 분석 화면 
 
 
 https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a7-201cef03e7c2
 
 
 ## Analysis/Visualization
-### Yolov3를 통한 Object detection을 직접 실행해보았는데, 일상생활에서 흔히 볼 수 있는
+### Yolov3를 통한 Object detection을 직접 실행해보았는데, 우선 사용자가 명령어를 통해 사용하기 매우 편리했습니다. 이미지 파일, 동영상 아니면 Object detection을 하고 싶은 자료들을 폴더에 모아놓고 한번에 폴더 자체를 실행할수도있었고, 링크를 걸어주어도 해당 링크 자료를 판별한 결과물도 출력해줍니다.<br/>성능을 보았을땐, 전반적으로 사물을 잘 인식해주는것으로 보입니다. 사진속에 모든 사물들을 탐지해주지는 않지만, 사전에 Train된 이미지들에 대해서는 Result에 웹캠영상이나, 사진 결과물들을 보면 , 퍼센트는 좀 낮을지라도 대부분 잘 인식해 주었습니다 .
+
+ 
+
 ## Installation
 * Windows11 환경에서 실행
 * git bash 를 실행합니다.
