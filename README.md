@@ -32,6 +32,12 @@
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
 ![test1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/9d6749d2-9ac1-4692-ad9b-431a2403f833)
+![t8](https://github.com/KYUWON1/helloopensw/assets/127181209/96667b66-5e70-4e9a-808b-a0c676d427fc)
+![t1](https://github.com/KYUWON1/helloopensw/assets/127181209/7ed2eac7-c7cb-4ede-bcd2-de5d51b49666)
+![t2](https://github.com/KYUWON1/helloopensw/assets/127181209/fc682a60-30b4-42d5-9790-fa2fb8ed1f68)
+![t3](https://github.com/KYUWON1/helloopensw/assets/127181209/a0741959-de0b-4153-b4e3-5f0f8321353b)
+![t5](https://github.com/KYUWON1/helloopensw/assets/127181209/c738f154-429c-4738-91aa-85442c712cbb)
+![t6](https://github.com/KYUWON1/helloopensw/assets/127181209/ab72a130-4938-4252-8421-cdacfb49e863)
 
 ### 웹캠를 통한 실시간 분석 화면
 
