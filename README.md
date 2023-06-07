@@ -87,3 +87,5 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95f
 8. 실행이 완료되면 detection이 끝난 파일들은 runs 폴더 안에 저장됩니다.
 ## Presentation
 
+https://youtu.be/ipqckes6QKg
+
