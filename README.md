@@ -47,6 +47,11 @@ https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4a
 
 
 https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4e44f958-ab46-4a8d-89a7-201cef03e7c2
+### 휴대폰으로 직접 촬영한 YOLOv3 🚀을 이용한 자율주행 시뮬레이션
+
+
+https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95fa-0380cb0e601e
+
 
 
 ## Analysis/Visualization
