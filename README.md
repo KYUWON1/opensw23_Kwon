@@ -13,21 +13,8 @@
 ### * 요약하자면, YOLOv3는 Input으로 받은 이미지파일이나, 동영상, 동영상 링크등을 위에 적어둔 식별 방식을 통하여 객체가 식별된 이미지, 영상을 Output으로 제공하여줍니다. <br/><br/> 
 * YOLOv3는 오픈 소스로 제공되며, 다양한 프레임워크를 통해 사용할 수 있습니다.<br/> 파이썬을 사용하여 YOLOv3를 구현하고 사용할 수 있는 라이브러리로는 Ultralytics의 "YOLOv3 🚀"이 있습니다.<br/><br/>
 ## Results
-
-### YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 1
-
-
-![zed](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4ca9919a-d7d3-49d7-9554-d21a74045035)
-![zidane b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e4e24737-d862-4ef5-a96a-eaa5291582c0)
-![zidane a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/1ed40dbc-40d0-440d-a63f-5b4004670c80)
-### YOLOv3 🚀 사용한 <br/>기존이미지 Detection 결과 2
-
-
-![code1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/0e634bc9-c379-4c70-8dc2-be81c5abd684)<br/>
-![bus b](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7b68e431-2585-4fa8-ac72-2f287b73fa4b)
-![bus a](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e3a8f334-75ea-42bd-962b-d7324312859e)
-
-### 내가 찍은 이미지 Detection 결과
+## 저는 이미지 50개가량, 동영상 5개, 웹캠,유튜브 링크 1개를 직접 Detection 해보았고, Results 결과에는 개인적인 사진을 제외한 대표적인 사진 Detection된 결과물들을 링크하였습니다. 개인적으로 동영상파일을 한번 Test해보는것을 추천드립니다.
+### YOLOv3 🚀 이용한 내가 찍은 이미지 Detection
 
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
@@ -40,7 +27,7 @@
 ![t8](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3e81b051-57fd-45c6-abfa-a2c4c376076d)
 
 
-### 웹캠를 통한 실시간 분석 화면
+### YOLOv3 🚀 이용한 웹캠을 통한 실시간 분석 화면
 
 
 
@@ -59,7 +46,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95f
 
 
 ## Analysis/Visualization
-## 저는 이미지 50개가량, 동영상 5개, 웹캠,유튜브 링크 1개를 직접 Detection 해보았고, Results 결과에는 개인적인 사진을 제외한 잘 Detection된 결과물들을 링크하였습니다. 개인적으로 동영상파일을 한번 Test해보는것을 추천드립니다.
+
 ### 1. 유용성 측면<br/>
 ### -Yolov3를 통한 Object detection을 직접 실행해보았는데, 우선 사용자가 명령어를 통해 사용하기 매우 편리했습니다.<br/><br/> -이미지 파일, 동영상 아니면 Object detection을 하고 싶은 자료들을 폴더에 모아놓고 한번에 폴더 자체를 실행할수도있었고, 링크를 걸어주어도 해당 링크 자료를 판별한 결과물도 출력해줍니다.<br/>
 ### 2. 성능 측면<br/>
