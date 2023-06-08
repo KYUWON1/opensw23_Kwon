@@ -13,8 +13,8 @@
 ### * 요약하자면, YOLOv3는 Input으로 받은 이미지파일이나, 동영상, 동영상 링크등을 위에 적어둔 식별 방식을 통하여 객체가 식별된 이미지, 영상을 Output으로 제공하여줍니다. <br/><br/> 
 * YOLOv3는 오픈 소스로 제공되며, 다양한 프레임워크를 통해 사용할 수 있습니다.<br/> 파이썬을 사용하여 YOLOv3를 구현하고 사용할 수 있는 라이브러리로는 Ultralytics의 "YOLOv3 🚀"이 있습니다.<br/><br/>
 ## Results
-#### 저는 이미지 50개가량, 동영상 5개, 웹캠,유튜브 링크 1개를 직접 Detection 해보았습니다.<br/> Results 결과에는 개인적인 사진을 제외한 잘 인식된 사진 6장 실패한 사진 1장 ,웹캠 영상, 동영상 1개의 Detection된 결과물들을 링크하였습니다.<br/>개인적으로 동영상파일을 한번 촬영하여 Test해보는것을 추천드립니다.
-### YOLOv3 🚀 이용한 내가 찍은 이미지 Detection
+### 저는 이미지 약50개, 동영상 5개, 웹캠, 유튜브 링크 1개를 직접 Detection 해보았습니다.<br/> Results 결과에는 개인적인 사진을 제외한 잘 인식된 사진 6장 실패한 사진 1장 ,웹캠 영상, 동영상 1개의 Detection 완료된 결과물들을 링크하였습니다.<br/>개인적으로 직접 동영상을 한번 촬영하고 Test해보시는것을 추천드립니다.
+### YOLOv3 🚀를 이용한 내가 찍은 이미지 Detection
 
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
@@ -27,14 +27,14 @@
 ![t8](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3e81b051-57fd-45c6-abfa-a2c4c376076d)
 
 
-### YOLOv3 🚀 이용한 웹캠을 통한 실시간 분석 화면
+### YOLOv3 🚀를 이용한 웹캠을 통한 실시간 분석 화면
 
 
 
 https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4adcb3f31
 
 
-### 휴대폰으로 직접 촬영한 YOLOv3 🚀을 이용한 자율주행 시뮬레이션
+### 휴대폰으로 직접 촬영한 YOLOv3 🚀를 이용한 자율주행 시뮬레이션
 
 
 
