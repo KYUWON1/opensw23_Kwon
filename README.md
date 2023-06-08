@@ -3,7 +3,7 @@
 * 202014185 심규원 개인프로젝트 조번호 3번
 ## Topic introduction
 ### 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
-![zidane1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/c25b01a2-f85d-41d4-bd28-cdd468bedf75)      ▶▶▶        
+![zidane1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/c25b01a2-f85d-41d4-bd28-cdd468bedf75)    ▶▶▶      
 ![zidane2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3162da54-3ec3-4051-8898-13f5d8da2a30)
 ### 이미지 파일 Detection 전    -------->  이미지 파일  Detection 후<br/><br/>
 #### * 출처 yolov3 > https://github.com/ultralytics/yolov3<br/><br/>
