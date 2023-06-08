@@ -19,16 +19,16 @@
 
 ![test2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/56adcf89-01c9-4cea-965f-095ff824be8e) 
 ![test1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/9d6749d2-9ac1-4692-ad9b-431a2403f833)
-#### 가장 처음으로 Detection한 이미지 (사람1명, 물병1개 Detection)
+#### -Left image(판별전), Right image(판별후) 사람1명, 물병1개 Detection
 ![t1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/b85f2f93-8ee1-4183-abd2-f6b1cd64a064)
 ![123123](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/739fdac5-7678-412c-b8cb-fdfc8fc1d84b)
-#### Left image(신호등 2개, 차량1대 Detection)<br/>Right image (가로등, 나무 Detection 실패)
+#### -Left image(신호등 2개, 차량1대 Detection)<br/>-Right image (가로등, 나무 Detection 실패)
 ![t3](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/62d6dd19-4379-4f63-8a9e-b243752abdcf)
 ![t5](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/4c41ac9b-ad05-4bea-9c3a-f2baaabf224c)
-#### Left image(벤치 2개이지만 3개로 Detection)<br/>Right image(사람 2명 Detection, 킥보드, 신호등 Detection Miss)
+#### -Left image(벤치 2개이지만 3개로 Detection)<br/>-Right image(사람 2명 Detection, 킥보드, 신호등 Detection Miss)
 ![t6](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/ad3b1fbc-3e5c-4608-ab16-2eb7f7818d4a)
 ![t8](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3e81b051-57fd-45c6-abfa-a2c4c376076d)
-#### Left image(고양이 1마리 Detection)<br/>Right image(차량 2대, 신호등 Detection, 가로등, 표지판 Detection 실패)
+#### -Left image(고양이 1마리 Detection)<br/>-Right image(차량 2대, 신호등 Detection, 가로등, 표지판 Detection 실패)<br/>
 
 
 ### YOLOv3 🚀를 이용한 웹캠을 통한 실시간 분석 화면
@@ -37,13 +37,14 @@
 
 https://github.com/KYUWON1/KYUWON/assets/127181209/37fb9d08-2387-4c0a-94d2-89c4adcb3f31
 
+### 제 방에서 노트북의 웹캠으로 촬영하면서 녹화한 영상입니다.<br/>본인(사람), 뒤에 있는 콜라 페트병들, 휴대폰들이 잘 인식되는것으로 보이고, 가위는 잘 판별하지 못하는것으로 보입니다.<br/>
 
 ### 휴대폰으로 직접 촬영한 YOLOv3 🚀를 이용한 자율주행 시뮬레이션
 
 
 
 https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95fa-0380cb0e601e
-
+### 운전하면서 친구가 제 핸드폰으로 직접 촬영해준 영상입니다<br/>주행하면서 실시간으로 승용차, 트럭, 버스, 신호등 , 걸어가는 사람들, 오토바이, 햇빛가리게등이 식별된 영상<br/>
 
 
 ## Analysis/Visualization
