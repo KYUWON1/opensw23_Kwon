@@ -3,6 +3,9 @@
 * 202014185 심규원 개인프로젝트 조번호 3번
 ## Topic introduction
 ### 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
+![zidane1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/c25b01a2-f85d-41d4-bd28-cdd468bedf75)
+![zidane2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3162da54-3ec3-4051-8898-13f5d8da2a30)
+### 이미지 파일 Detection 전    -------->  이미지 파일  Detection 후<br/><br/>
 #### * 출처 yolov3 > https://github.com/ultralytics/yolov3<br/><br/>
 * YOLOv3는 "You Only Look Once"의 약자로, 객체 감지(object detection) 작업에 사용되는 딥러닝 알고리즘입니다.<br/> https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.<br/><br/>
 * YOLOv3는 객체 감지를 위해 이미지나 비디오를 입력으로 받아들이고, 이미지에서 다양한 객체를 식별하고 해당 객체들의 경계 상자(bounding box)와 클래스 레이블(class label)을 출력합니다.<br/>![12341](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7756176b-1a74-45a4-b34b-bff6ee98b452)
@@ -64,8 +67,8 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95f
 
 
 https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/e585c81f-b381-4510-8694-54fb04c1d917
-### 이번에는 화면 흔들림 테스트를 해보았는데, 보이는 영상에 전봇대 옆에는 할아버지 두 분이 계십니다.<br/>화면을 보시면 초반에 할아버지 두 분을 인식하지 못하다가 나중에 가서야 인식하는것을 볼 수 있었습니다.<br/><br/>
-### -제가 테스트하여 성능을 보았을땐, 제 입장에선 전반적으로 사물을 잘 인식해주는것으로 보입니다.<br/>물론 사진속에 모든 사물들을 세세히 전부다 탐지해주지는 않지만, 사전에 Train된 이미지들에 대해서는 Result를 보시면 알수있듯 비교적 잘 감지했습니다.<br/>
+### 이번에는 화면 흔들림 테스트를 해보았는데, 해당 영상은 제가 0.5배속 편집을 한 영상입니다.<br/>보이는 영상에 전봇대 옆에는 할아버지 두 분이 계십니다.<br/>화면을 보시면 초반에 할아버지 두 분을 인식하지 못하다가 나중에 가서야 인식하는것을 볼 수 있었습니다.<br/><br/>
+### -제가 테스트하여 성능을 보았을땐, 제 입장에선 전반적으로 사물을 잘 인식해주는것으로 보입니다.<br/>물론 사진속에 모든 사물들을 세세히 전부다 탐지해주지는 않지만, 사전에 Train된 이미지들에 대해서는 Result를 보시면 알수있듯 상황에 따라서도 나름 잘 감지해주었습니다.<br/>
 
 ### 3. 추론 속도 측면<br/>
 <img width="1097" alt="result image" src="https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/20daf694-c959-43a3-99a6-92a19a926ef5">
