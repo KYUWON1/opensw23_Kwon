@@ -3,7 +3,7 @@
 * 202014185 심규원 개인프로젝트 조번호 3번
 ## Topic introduction
 ### 실시간 개체 감지 및 이미지 세분화 모델 Ultralytics YOLOv8
-* 출처 yolov3 > https://github.com/ultralytics/yolov3<br/><br/>
+#### * 출처 yolov3 > https://github.com/ultralytics/yolov3<br/><br/>
 * YOLOv3는 "You Only Look Once"의 약자로, 객체 감지(object detection) 작업에 사용되는 딥러닝 알고리즘입니다.<br/> https://github.com/ultralytics/ultralytics 에서 출시된 당사의 최신 최첨단(SOTA, state of the art) 모델입니다.<br/><br/>
 * YOLOv3는 객체 감지를 위해 이미지나 비디오를 입력으로 받아들이고, 이미지에서 다양한 객체를 식별하고 해당 객체들의 경계 상자(bounding box)와 클래스 레이블(class label)을 출력합니다.<br/>![12341](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/7756176b-1a74-45a4-b34b-bff6ee98b452)
 * YOLOv3는 Convolutional Neural Network (CNN) 아키텍처를 기반으로 합니다. 이 아키텍처는 이미지를 여러 개의 그리드로 나눈 후, 각 그리드 셀마다 여러 개의 bounding box를 예측하고, 예측된 bounding box들을 필터링하여 객체를 식별하는 방식을 사용합니다.<br/> 또한, YOLOv3는 다양한 크기의 객체를 잘 탐지하기 위해 여러 개의 스케일로 예측을 수행합니다.<br/><br/>
