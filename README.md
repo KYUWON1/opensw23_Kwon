@@ -80,7 +80,7 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95f
 
  
 
-## I nstallation
+## Installation
 * Windows11 환경에서 실행
 * git bash 를 실행합니다.
 * 원하는 repository로 이동 합니다. 
