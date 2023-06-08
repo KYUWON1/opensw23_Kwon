@@ -54,6 +54,15 @@ https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3cdfd62b-0069-484d-95f
 ### 2. 성능 측면<br/>
 <img width="777" alt="ttttt" src="https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/18b5c616-fac2-4554-a6d7-0c6683fcc428">
 
+
+![dog1](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/89c697a8-aef2-4a4c-80e4-b7197c99426d)
+![dog2](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/036eca1e-48e2-48ea-aec7-35067cb638d2)
+
+
+![cb](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/840270c2-c8f3-4bd9-839e-ab99eb318c27)
+![cat](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/36cd60e8-dd50-4384-a289-f9bf102ca4f3)
+![cd](https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/3ce327bc-ae26-4f9f-80d5-a4ba1fc7b2b2)
+
 ### -제가 테스트하여 성능을 보았을땐, 제 입장에선 전반적으로 사물을 잘 인식해주는것으로 보입니다.<br/>물론 사진속에 모든 사물들을 세세히 전부다 탐지해주지는 않지만, 사전에 Train된 이미지들에 대해서는 Result에 웹캠 영상이나, 사진 결과물들을 보시면 알수있듯 가로등 사진을 제외한 사진들을 대부분 잘 인식해 주었습니다.<br/><br/>-Detection의 유사도를 측면에서 보았을땐, 유사도가 0.4퍼센트 이상 넘어가면, 보통 올바르게 사물을 인식했고, 0.4퍼센트 미만으로 내려가면, 정답률이 아주 약간씩 떨어지는 것을 볼 수 있었습니다.<br/><br/>-Result에 보여준 예시 사진외에도, 제가 많은 Test를 수행해본 결과, 다른 물체들은 탐지하지 못하거나, 정답이 틀리더라도, 사람은 거의 100% 확률로 탐지하고 사람으로 인식하는 것을 볼 수 있었습니다. 그러나 전문가들의 성능 측면측에서는 위에 그래프를 보시면 알수있듯, Yolov3는 많이 좋은 평가를 받진 못합니다.<br/>
 ### 3. 추론 속도 측면<br/>
 <img width="1097" alt="result image" src="https://github.com/KYUWON1/opensw23_Kwon/assets/127181209/20daf694-c959-43a3-99a6-92a19a926ef5">
